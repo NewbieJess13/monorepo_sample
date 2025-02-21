@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/customer_app/melos_customer_app.iml" filepath="$PROJECT_DIR$/apps/customer_app/melos_customer_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/driver_app/melos_driver_app.iml" filepath="$PROJECT_DIR$/apps/driver_app/melos_driver_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/ui_kit/melos_ui_kit.iml" filepath="$PROJECT_DIR$/packages/ui_kit/melos_ui_kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_melos_sample.iml" filepath="$PROJECT_DIR$/melos_melos_sample.iml" />
+    </modules>
+  </component>
+</project>

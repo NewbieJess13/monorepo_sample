@@ -1,0 +1,12 @@
+name: melos_sample
+packages:
+  - apps/**
+  - packages/**
+
+scripts:
+  analyze:
+    exec: dart analyze .
+  customer_app:
+    exec: flutter run --project=apps/customer_app
+  generate_run_config:
+    run: bash generate_app_run_config.sh
